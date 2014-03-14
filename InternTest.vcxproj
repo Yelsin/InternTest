@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PointerAndArray.cpp" />
+    <ClCompile Include="TestCopyConstruction.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F3348861-A26C-4A9F-94C4-438F0C39E57D}</ProjectGuid>

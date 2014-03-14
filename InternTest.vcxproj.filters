@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PointerAndArray.cpp">
+    <ClCompile Include="TestCopyConstruction.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
